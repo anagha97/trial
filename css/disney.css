@@ -1,0 +1,20 @@
+body{
+	background-image: url("https://pmcdeadline2.files.wordpress.com/2016/12/walt-disney-studios.png?w=605");
+    background-size: cover;
+}
+p{
+	font-size: 30px;
+	color: white;
+}
+a{
+	color: white;
+	font-size: 30px;
+}
+h3{
+	color: black;
+	font-size: 40px;
+}
+h1{
+	font-size: 60px;
+	color: black;
+}

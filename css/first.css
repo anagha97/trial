@@ -1,0 +1,45 @@
+body{
+	background-color: crimson;
+	background-image: url("https://tinypng.com/images/social/developer-api.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	backface-visibility: transparent; 
+}
+#anu{
+	backface-visibility: 60%;
+	background-color: yellow;
+}
+#i1{
+	background-color: grey;
+	color: crimson;
+	border-style: hidden;
+	margin-left: 100px;
+	padding-left: 200px;
+
+}
+h3{
+	background-color: black;
+	color: white;
+	background-size: 30px;
+}
+table{
+	background-color: orange;
+	color: red;
+}
+a{
+	background-color: crimson;
+	color: white;
+}
+.bleh{
+    background-color: blue;
+	color: black;
+}
+#i2{
+	background-color: #573575;
+	border-style: dotted;
+    border-bottom-color: cornflowerblue;
+    border-right-color: firebrick;
+    padding: 10px;
+    border-left-color: khaki;
+    padding-right: 200px;
+}
